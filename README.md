@@ -34,6 +34,44 @@ Aplikasi mobile (Flutter) dengan backend API (Laravel) untuk kebutuhan autentika
 
 ---
 
+### 🔐 Autentikasi  
+---
+
+- **Login Page**  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/cc3d1d6c-ebc2-4aeb-9983-92d34dfb2d31" alt="Login Page" width="600">
+  </div>
+
+---
+
+- **Register Page**  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/35b64d11-e3f1-4c83-8fce-c59ed5c7b60a" alt="Register Page" width="600">
+  </div>
+
+---
+
+- **Ganti Password**  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/f0918ce2-aa8a-4952-8656-2f4df819b553" alt="Change Password" width="600">
+  </div>
+  
+  ---
+
+- **Home**  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/072779d3-6f44-41d1-9014-244156c1a5c7" alt="Change Password" width="600">
+  </div>
+
+  ---
+
+- **Profil**  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/cc3f49e2-fdd5-404c-bb95-d9d5e179a207" alt="Change Password" width="600">
+  </div>
+
+---
+
 ## 📂 Struktur Folder Penting
 
 ```text
